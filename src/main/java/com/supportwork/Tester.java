@@ -4,7 +4,7 @@ public class Tester {
 	public static void main(String[] args) {
 		LogicService s = new LogicService();
 		try {
-			s.logic("India", "Andhra Pradesh", "Chittor", "111111");
+			s.logic("India", "Andhra Pradesh", "Chittor", "517001");
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			System.out.println(e.getMessage());
